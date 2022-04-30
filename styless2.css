@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Robotowght@1,300&display=swap');
+body{
+    background: #FCD7B5;
+
+}
+h1.Title{
+    color: #FA9F18;
+    font-size: 64px;
+    letter-spacing: 20%;
+    text-align: center;
+    line-height: 89.6px;
+    font-family: 'Roboto';
+}
+label.label{
+    font-weight: 300;
+    color: white;
+    font-style: normal;
+}
+
+input.input{
+    width: 292.54px;
+    height: 48.85px;
+    font-family: 'Roboto', sans-serif;
+
+}
+h1.title{
+    font-size: 96px;
+}
+input.button{
+    background-color: #6922DC;
+    border-radius: 10px;
+}

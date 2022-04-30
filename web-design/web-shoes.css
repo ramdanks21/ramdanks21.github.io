@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&family=Roboto:wght@500&display=swap');
+body
+{
+    font-family: 'Roboto',sans-serif;
+}
+
+.btn-login
+{
+    border: 3px solid #6100FF;
+    padding:6.4px  37.16px;
+}
+ 
+.navbar-item :hover{
+}
+
+/* This changes only the text */
+
+.navbar-link :hover{
+    background-color:yellow;
+}
+
+h2.ttle{
+    color:#4B4453;
+    font-size: 64px;
+    font-family: 'Roboto Slab', serif;
+}
+.title-brand-new{
+    text-transform: uppercase;
+    letter-spacing: 5px;
+}
+section.top-wrapper .column img
+{
+
+    border-radius: 5px;
+}
+.title-tabs
+{
+    letter-spacing:30%;
+    color:#6922DC;
+}
+ 
+p.subttle
+{
+    font-size: 15px;
+    color:#B1A8B9;
+    width: 374.5px;
+    height: 18.8px;
+}
+ 
+a.button
+{
+    background:#E3E3E3;
+    font-family: 'Roboto Slab', sans-serif;
+    color:#6922DC;
+}
+
+a.button:hover{
+    opacity: 0.9;
+    color: #6100FF;
+
+}
+img.product:hover
+{
+    opacity: 0.4;
+    background: rgb(161, 156, 156);
+    cursor: pointer;
+}
+
+.hero-comment
+{
+    background-color: #6922DC;
+}
+
+
+.va {
+    display: flex;
+    align-items: center;
+  }
+  
+  
+  .cta {
+    height: 500px;
+    border-top: 10px solid turquoise;
+  }
+  
+  footer {
+    color: white;
+    background: rgb(14, 14, 14) !important;
+  }
+  
+  footer strong {
+    color: turquoise;
+  }
+  
+  footer a {
+    color: turquoise;
+  }
+  
+  .title {
+    color: white;
+    font-weight: 800;
+    font-size: 4rem;
+    font-family: 'Nunito Sans', sans-serif;
+    text-shadow: 1px 1px 1px #000, 3px 3px 5px rgb(0, 0, 3);
+  }
+  
+  .subtitle {
+    color: white;
+    font-size: 1.2rem;
+    text-shadow: 1px 1px 1px #000, 3px 3px 5px rgb(0, 0, 3);
+  }
+  
+  hr.content-divider {
+    max-width: 75px;
+    height: 5px;
+  }
+  
+  #parallax-1 {
+    background: url(https://source.unsplash.com/featured/?converse);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top: 10px solid coral;
+  }
+  
+  #parallax-1 hr {
+    background: coral;
+  }
+  
+  #parallax-2 {
+    background: url(https://source.unsplash.com/featured/?nike);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top: 10px solid yellow;
+  }
+  
+  #parallax-2 hr {
+    background: yellow;
+  }
+  
+  
+  #parallax-3 hr {
+    background: hotpink;
+  }
+  
+  .label {
+    color: white;
+  }
+  
+   
+  
+  input::placeholder {
+    color: white !important;
+  }
